@@ -26,10 +26,10 @@ GIT
       railties (>= 3.1)
 
 GIT
-  remote: https://github.com/michaeldv/awesome_print
-  revision: d8aeb66b4b03dfb2cc1aec4e3187ced2f826d11f
+  remote: https://github.com/awesome-print/awesome_print
+  revision: eb1db7d62440ad9107f528878ca3e936e1d2a063
   specs:
-    awesome_print (1.6.2)
+    awesome_print (1.7.0)
 
 GEM
   remote: https://rubygems.org/
@@ -567,5 +567,8 @@ DEPENDENCIES
   webmock (~> 1.22.6)
   will_paginate (~> 3.1.0)
 
+RUBY VERSION
+   ruby 2.3.0p0
+
 BUNDLED WITH
-   1.11.2
+   1.12.5
